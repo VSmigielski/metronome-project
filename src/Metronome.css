@@ -17,6 +17,10 @@
       -webkit-text-stroke: 1px black;
   }
   
+  .card-body {
+      background: rgba(249,247,254);
+  }
+
   .metronome button {
     background: #54e9d5;
     padding: 10px;
