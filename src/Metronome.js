@@ -87,10 +87,8 @@ class Metronome extends Component {
                 </div>
                 <div class="col-sm-6">
                     <div class="card">
-                        <div class="card-header">
-                            Metronome
-                        </div>
                         <div class="card-body">
+                            <h5 class="card-title mt-2 mb-2">Metronome</h5>
                             <div className="metronome">
                                 <div className="bpm-slider">
                                     <div>{bpm} BPM</div>

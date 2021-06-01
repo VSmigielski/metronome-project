@@ -10,7 +10,7 @@
     margin: 10px;
   }
 
- .card-header {
+ .card-title {
       font-size: 44px;
       font-weight: bold;
       color: #ffb6c1;
@@ -21,7 +21,7 @@
     background: #54e9d5;
     padding: 10px;
     border: 1px solid #000000;
-    border-radius: 2px;
+    border-radius: 10px;
     width: 100px;
     color: rgb(0, 0, 0);
     font-size: 18px;
