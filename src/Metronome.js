@@ -91,7 +91,7 @@ class Metronome extends Component {
                             <h5 class="card-title mt-2 mb-2">Metronome</h5>
                             <div className="metronome">
                                 <div className="bpm-slider">
-                                    <div>{bpm} BPM</div>
+                                    <div class="bpm-rate">{bpm} BPM</div>
                                         <input
                                         type="range"
                                         min="60"
